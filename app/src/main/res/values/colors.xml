@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eerie_black">#1F1F1F</color>
+    <color name="eerie_black_dark">#181818</color>
+    <color name="old_grey">#858585</color>
+    <color name="cadet_grey">#8D9CAF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

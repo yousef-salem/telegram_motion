@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileActivity</string>
+    <string name="the_chance">The chance</string>
+    <string name="_812_subscribers">812 Subscribers</string>
+    <string name="info">Info</string>
+    <string name="t_me_thechance101">t.me/thechance101</string>
+    <string name="invite_link">Invite link</string>
+    <string name="notifications">Notifications</string>
+    <string name="on">On</string>
+    <string name="media">Media</string>
+    <string name="files">Files</string>
+    <string name="links">Links</string>
+</resources>
